@@ -1,4 +1,4 @@
-# Image-Processing-on-Fpga
+# Image-Processing-on-FPGA
 Code that performs a simple blurring. Takes a 512*512 bitmap image file and uses Box Blur Kernel to blur the same.
 
 The code was simulated on ZedBoard Zynq Evaluation and Development Kit (xc7z020clg484-1)
